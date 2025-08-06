@@ -1,2 +1,2 @@
-# Python
-Python Programming Language
+# Python (Programming Language)
+# Author :- Sudip Pokhrel
